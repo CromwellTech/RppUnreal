@@ -18,5 +18,5 @@ this is sufficient for now.
 # Updating RPP
 
 If you want to update ReactivePlusPlus, overwrite Source/ThirdParty/rpp folder with the src/rpp/rpp folder from the
-version of RPP you want from [here](https://github.com/victimsnino/ReactivePlusPlus).
-In the future, this will likely be done automatically, either by a Git subtree,**** submodule, or a script.
+version of [ReactivePlusPlus](https://github.com/victimsnino/ReactivePlusPlus).
+In the future, this will likely be done automatically, either by a Git subtree, submodule, or a script.
