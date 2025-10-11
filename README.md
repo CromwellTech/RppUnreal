@@ -1,3 +1,9 @@
+# About
+
+This is a thin wrapper around [ReactivePlusPlus](https://github.com/victimsnino/ReactivePlusPlus) for Unreal Engine.
+This does not add support for ReactiveX within Blueprint. I am working on a separate plugin for that, and will update
+this readme with more information on that when it is released.
+
 # Usage
 
 Add "RppUnreal" to your `PublicDependencyModuleNames` in your desired Build.cs you want to use this in.
@@ -13,4 +19,4 @@ this is sufficient for now.
 
 If you want to update ReactivePlusPlus, overwrite Source/ThirdParty/rpp folder with the src/rpp/rpp folder from the
 version of RPP you want from [here](https://github.com/victimsnino/ReactivePlusPlus).
-In the future, this will likely be done automatically, either by a Git subtree, submodule, or a script.
+In the future, this will likely be done automatically, either by a Git subtree,**** submodule, or a script.
