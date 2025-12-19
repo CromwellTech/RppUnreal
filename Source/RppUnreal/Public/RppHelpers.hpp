@@ -1,14 +1,7 @@
-﻿// Fill out your copyright notice in the Description page of Project Settings.
-
-#pragma once
-
-#include "CoreMinimal.h"
+﻿#pragma once
 #include "observables/observable.hpp"
 
-/**
- * 
- */
-class RPPUNREAL_API RppHelpers
+class RppHelpers
 {
 public:
 	static auto TakeWhileNotNull(auto* Self)
